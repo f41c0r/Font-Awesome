@@ -5618,7 +5618,6 @@ icons:
     categories:
       - Brand Icons
 
-
   - name:       Fonticons
     id:         fonticons
     unicode:    f280
@@ -5626,3 +5625,21 @@ icons:
     url:        fonticons.com
     categories:
       - Brand Icons
+
+  - name:       TextSecure Messenger
+    id:         textsecure
+    unicode:    f28a
+    created:    4.4
+    url:        whispersystems.org
+    categories:
+      - Brand Icons
+
+  - name:       Signal Messenger
+    id:         signal-messenger
+    unicode:    f28b
+    created:    4.4
+    url:        whispersystems.org
+    categories:
+      - Brand Icons
+
+

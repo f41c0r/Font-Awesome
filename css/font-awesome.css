@@ -2024,3 +2024,9 @@
 .fa-fonticons:before {
   content: "\f280";
 }
+.fa-textsecure:before {
+  content: "\f28a";
+}
+.fa-signal-messenger:before {
+  content: "\f28b";
+}
